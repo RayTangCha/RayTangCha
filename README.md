@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RayTangCha
 - 👀 I’m interested in Cha
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++ and its GUI libraries
+- 💞️ I’m looking to collaborate on work about ClassIn
 - 📫 How to reach me NULL
